@@ -1,5 +1,5 @@
 /***********************************************************
-Programmer: Andrew Emerson					Date: 4/11/17
+Programmer: Andrew Emerso	Date: 4/11/17
 
 Description: This is a simple program that calculates the
 gcd recursively well also displaying the process during 
