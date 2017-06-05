@@ -42,4 +42,4 @@ int gcd(int a, int b) {
 	
 	return retVal;
 
-}//end fib
+}//end gcd
